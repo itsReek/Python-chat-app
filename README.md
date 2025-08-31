@@ -7,7 +7,7 @@ About This Course:
 -   🚀 Python virtual environment setup
 -   💬 Socket.io and Flask integration
 -   ✨ JavaScript on the frontend
--   ✅ Deployment at the end
+  
 
 ### Run the App Locally
 
