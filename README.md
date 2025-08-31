@@ -2,8 +2,6 @@
 
 ![Demo App](/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/h991oLxOxeM)
-
 About This Course:
 
 -   🚀 Python virtual environment setup
